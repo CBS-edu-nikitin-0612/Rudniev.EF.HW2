@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AditionalTask", "AditionalTask\AditionalTask.csproj", "{78142593-01D1-49BB-98A8-CEBDCB4D0597}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2", "Task2\Task2.csproj", "{A02A76FC-E551-4522-95EA-E90170F1895B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{818AA01D-D062-49C7-9BDA-04FE986A539E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78142593-01D1-49BB-98A8-CEBDCB4D0597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78142593-01D1-49BB-98A8-CEBDCB4D0597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78142593-01D1-49BB-98A8-CEBDCB4D0597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78142593-01D1-49BB-98A8-CEBDCB4D0597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02A76FC-E551-4522-95EA-E90170F1895B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02A76FC-E551-4522-95EA-E90170F1895B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02A76FC-E551-4522-95EA-E90170F1895B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02A76FC-E551-4522-95EA-E90170F1895B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818AA01D-D062-49C7-9BDA-04FE986A539E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818AA01D-D062-49C7-9BDA-04FE986A539E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818AA01D-D062-49C7-9BDA-04FE986A539E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818AA01D-D062-49C7-9BDA-04FE986A539E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C81D6CF-FB9D-4A43-B604-F824AF88490A}
+	EndGlobalSection
+EndGlobal
